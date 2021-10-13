@@ -1424,7 +1424,7 @@ ul.pagination {
         background-color: #45818E;
         color: #ffffff !important; }
         ul.pagination li > .page.active:hover {
-          background-color: #f67878; }
+          background-color: #45818E; }
         ul.pagination li > .page.active:active {
           background-color: #45818E; }
     ul.pagination li:first-child {
